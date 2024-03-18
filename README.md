@@ -66,4 +66,4 @@ Logistic regression is the base line supervised machine learning algorithm for c
 
 ## Finding
 
-The primary objective of our study was to develop a classifier capable of predicting song popularity based on specific dataset features. We chose logistic regression techniques for their potential for high accuracy. Our analysis showed that logistic regression was particularly effective for this task, outperforming linear regression. Notably, logistic regression achieved a commendable prediction accuracy of 89%, underscoring its suitability for classification tasks like predicting binary outcomes such as song popularity.
+The primary objective of our study was to develop a classifier capable of predicting song popularity based on specific dataset features. We chose logistic regression techniques for their potential for high accuracy. Our analysis showed that logistic regression was particularly effective for this task, outperforming linear regression. Notably, logistic regression achieved a commendable prediction accuracy of 88%, underscoring its suitability for classification tasks like predicting binary outcomes such as song popularity.
